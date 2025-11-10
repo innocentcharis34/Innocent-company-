@@ -1,5 +1,5 @@
 # Innocent company
-INNOCENTcompany est une entreprise de vente. nous avons des produits de qualites tels que. vetements hommes, femmes, parfums et accesoires.
+INNOCENT COmpany est une entreprise de vente. nous avons des produits de qualites tels que. vetements hommes, femmes, parfums et accesoires.
 # Membres du groupe
 - Innocent Charis
 - Innocent Isemane  Yadah
